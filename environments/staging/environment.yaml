@@ -11,5 +11,5 @@ app:
       value: https://adrian-001100.verify.ibm.com/oidc/endpoint/default/.well-known/openid-configuration
     - name: clientId
       value: de48d6f2-d8ae-4b74-ab02-3c18670984de
-  version: "dfaf24e5-32e8-49e5-9afe-94f5cc516eb4"
+  version: "366e735d-884f-4acf-89f4-fe47f93fcf58"
   java: 17
