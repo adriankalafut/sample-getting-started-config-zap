@@ -1,0 +1,15 @@
+version: 1.0
+app:
+  instances:
+    min: 1
+    max: 2
+  env:
+    - name: JVM_ARGS
+      value: "-DenvironmentType=stage"
+  variables:
+    - name: discoveryEndpoint
+      value: "CHANGE_ME"
+    - name: clientId
+      value: "CHANGE_ME"
+  version: "be5134ba-d2ff-4da7-a0b2-075e8f9bbada"
+  java: 17
