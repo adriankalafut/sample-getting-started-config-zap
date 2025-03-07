@@ -11,5 +11,5 @@ app:
       value: "CHANGE_ME"
     - name: clientId
       value: "CHANGE_ME"
-  version: ""
+  version: "f1dfc971-4352-424a-baef-cccbc98b0288"
   java: 17
